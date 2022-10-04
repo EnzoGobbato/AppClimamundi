@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppClimamundi/static/css/main.740924f0.css",
+    "main.js": "/AppClimamundi/static/js/main.84eb5dc1.js",
+    "static/js/787.959d5df0.chunk.js": "/AppClimamundi/static/js/787.959d5df0.chunk.js",
+    "index.html": "/AppClimamundi/index.html",
+    "main.740924f0.css.map": "/AppClimamundi/static/css/main.740924f0.css.map",
+    "main.84eb5dc1.js.map": "/AppClimamundi/static/js/main.84eb5dc1.js.map",
+    "787.959d5df0.chunk.js.map": "/AppClimamundi/static/js/787.959d5df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740924f0.css",
+    "static/js/main.84eb5dc1.js"
+  ]
+}
